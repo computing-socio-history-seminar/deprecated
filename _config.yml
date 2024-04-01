@@ -3,6 +3,6 @@ logo:
 description: 
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minima
+theme: jekyll-theme-slate
 plugins:
   - jemoji
