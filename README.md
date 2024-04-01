@@ -1,23 +1,21 @@
-# 💻 Computing Socio-History Seminar
-
-## About
+# 💻 About
 
 The Computing Socio-History Seminar is a research seminar organized by the HT2S research center of the Conservatoire National des Arts et Métiers. Every two months, we invite a researcher in the history and/or sociology of computing to present their work. The seminar aims to explore new narratives of computing history over extended periods of time, with an emphasis on how computer science intersects with social, economic, political, and cultural matters. Below, you will find a more detailed view of our approach.
 
-## 📅 Next dates
+# 📅 Next dates
 
 The seminar will start in September 2024, dates and speakers will be announced soon. 
 
-## 📍 Location 
+# 📍 Location 
 
 The seminar is hybrid and will be held at the Conservatoire National des Arts et Métiers, located at **292 Rue Saint-Martin, 75003 Paris**. The connection link and exact location will be communicated on this page before the event and via our mailing list.
 
-## 💭 Our approach
+# 💭 Our approach
 
 Add text
 
 
-## 📧 Organizers and Contact
+# 📧 Organizers and Contact
 
 The seminar is organized by (in alphabetical order):
 - [Mathilde Fichen](mathfichen@github.io)
