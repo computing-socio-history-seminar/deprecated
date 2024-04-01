@@ -1,4 +1,4 @@
-# 💻 About
+# 🖳 About
 
 The Computing Socio-History Seminar is a research seminar organized by the HT2S research center of the Conservatoire National des Arts et Métiers. Every two months, we invite a researcher in the history and/or sociology of computing to present their work. The seminar aims to explore new narratives of computing history over extended periods of time, with an emphasis on how computer science intersects with social, economic, political, and cultural matters. Below, you will find a more detailed view of our approach.
 
